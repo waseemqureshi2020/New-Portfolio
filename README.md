@@ -11,10 +11,9 @@
 - [📖 About the Project](#about-project): My Portfolio
   - [🛠 Built With](#Html,css,javascript): HTML, CSS, Javascript
 
-
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="about-project"></a>
+# 📖 [My Portfolio] <a name="about-project"></a>
 
 [My Portfolio] is a website where you can see my past projects.
 
@@ -26,7 +25,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/New-Portfolio/">My Portfolio</a>
+## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/New-Portfolio/"></a>
 
 - [Live Demo Link](https://waseemqureshi2020.github.io/New-Portfolio/)
 
