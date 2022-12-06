@@ -4,9 +4,7 @@
 @media only screen and (max-width: 768px) {
   * {
     font-family: 'Poppins', sans-serif;
-  }
-  body {
-    overflow-x: hidden;
+    box-sizing: border-box;
   }
 
   header nav {
@@ -100,7 +98,6 @@
     top: 5%;
     left: 0;
     margin: 10px 0;
-    overflow: hidden;
   }
 
   section.main-section {
